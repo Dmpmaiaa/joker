@@ -1,0 +1,102 @@
+[
+    {
+        "prompt": "Qual o nome completo de Harry Potter?",
+        "options": [
+            "Harry James Potter",
+            "Harry Sirius Potter",
+            "Harry Albus Potter",
+            "Harry Severus Potter"
+        ],
+        "correct": "Harry James Potter"
+    },
+    {
+        "prompt": "Qual é o nome da escola de magia que Harry Potter frequenta?",
+        "options": [
+            "Escola de Magia de Hogwarts",
+            "Escola de Magia de Beauxbatons",
+            "Escola de Magia de Durmstrang",
+            "Escola de Magia de Ilvermorny"
+        ],
+        "correct": "Escola de Magia de Hogwarts"
+    },
+    {
+        "prompt": "Qual é o nome do melhor amigo de Harry Potter?",
+        "options": [
+            "Ron Weasley",
+            "Hermione Granger",
+            "Neville Longbottom",
+            "Draco Malfoy"
+        ],
+        "correct": "Ron Weasley"
+    },
+    {
+        "prompt": "Qual é a posição de quadribol que Harry Potter joga?",
+        "options": [
+            "Apanhador",
+            "Goleiro",
+            "Batedor",
+            "Astronauta"
+        ],
+        "correct": "Apanhador"
+    },
+    {
+        "prompt": "Qual é o nome do animal de estimação de Harry Potter?",
+        "options": [
+            "Coruja",
+            "Gato",
+            "Rato",
+            "Cão"
+        ],
+        "correct": "Coruja"
+    },
+    {
+        "prompt": "Qual é o nome do professor de Poções em Hogwarts?",
+        "options": [
+            "Severus Snape",
+            "Albus Dumbledore",
+            "Minerva McGonagall",
+            "Rubeus Hagrid"
+        ],
+        "correct": "Severus Snape"
+    },
+    {
+        "prompt": "Qual é o nome do vilão principal em Harry Potter?",
+        "options": [
+            "Lord Voldemort",
+            "Lucius Malfoy",
+            "Bellatrix Lestrange",
+            "Fenrir Greyback"
+        ],
+        "correct": "Lord Voldemort"
+    },
+    {
+        "prompt": "Qual é o nome do quadribol profissional em que Harry Potter joga?",
+        "options": [
+            "Ballycastle Bats",
+            "Chudley Cannons",
+            "Puddlemere United",
+            "Kenmare Kestrels"
+        ],
+        "correct": "Gryffindor"
+    },
+    {
+        "prompt": "Qual é o nome da família que Ron Weasley pertence?",
+        "options": [
+            "Família Granger",
+            "Família Longbottom",
+            "Família Potter",
+            "Família Weasley"
+        ],
+        "correct": "Família Weasley"
+    },
+    {
+        "prompt": "Qual é o nome do objeto que permite viajar no tempo em Harry Potter?",
+        "options": [
+            "Vassoura",
+            "Porta-retrato",
+            "Varinha",
+            "Vira-Tempo"
+        ],
+        "correct": "Vira-Tempo"
+    }
+]
