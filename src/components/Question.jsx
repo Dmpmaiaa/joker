@@ -37,13 +37,18 @@ export function Question({ questions }) {
         }
     };
 
-
+    const resetGame = () => {
+        setIndex(0)
+        setPoints(0)
+        setJoker(7)
+        setDisabledAnswers([])
+    }
 
     return (
         <div>
             <h2>{points} pontos</h2>
 
-            {questions[index] !== undefined ? <h3>{questions[index]?.prompt}</h3> : <button>Reiniciar</button>}
+            {questions[index] !== undefined ? <h3>{questions[index]?.prompt}</h3> : <button onClick={resetGame}>Reiniciar</button>}
 
             <div>
                 {questions[index]?.options.map((answer) => (
